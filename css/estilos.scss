@@ -33,6 +33,12 @@ nav {
 			color: $color_2;
 		}
 	}
+	p {
+		display: inline-block;
+		margin: 0;
+		padding: 0;
+		background-color: blue
+	}
 }
 h1 {
 	font-family: $font-family_2;
