@@ -88,6 +88,12 @@ footer {
 footer .container {
   padding-top: 20px;
 }
+footer .miestilopie {
+  font-size: 12px;
+}
+footer .otroestilopie {
+  color: red;
+}
 
 address {
   margin-left: 38px;
