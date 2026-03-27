@@ -3,7 +3,7 @@
 * {
   scroll-behavior: smooth;
   overflow-x: hidden;
-  background-color: red;
+  background-color: rgb(242, 241, 241);
 }
 
 body {
@@ -16,6 +16,7 @@ nav {
   font-weight: bold;
   position: absolute;
   top: 20px;
+  right: 5px;
 }
 nav a {
   text-decoration: none;
@@ -73,11 +74,11 @@ p {
   text-align: justify;
 }
 
-ol li {
-  padding: 10px;
-}
 ol li:nth-child(odd) {
   background-color: rgb(193, 193, 193);
+}
+ol li {
+  padding: 10px;
 }
 
 footer {
