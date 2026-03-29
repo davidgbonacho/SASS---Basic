@@ -30,7 +30,8 @@ With VSC, it is possible to use SASS (without installing it globally) and compil
 
 [Texto en español aquí](README_ES.MD)
 
----
+![](img/logo.svg)
 
+---
 `title:` sass   [`SimPIL`] 03/27/26\
 `author:` David G. Bonacho &nbsp;&nbsp; [www.tizedit.com](https://www.tizedit.com)
