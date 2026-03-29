@@ -28,7 +28,7 @@ sass --watch css/estilos.scss css/estilos.css
 With VSC, it is possible to use SASS (without installing it globally) and compile .scss files directly without using --watch.  
 `with the extension: Live Sass Compiler (requires the Live Server extension to work)`
 
-[Text in English here](README.MD)
+[Texto en español aquí](README_ES.MD)
 
 ---
 
